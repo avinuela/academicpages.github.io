@@ -11,7 +11,7 @@ title                    : "Ana Viñuela's webpage"
 title_separator          : "-"
 name                     : &name "Ana Viñuela"
 description              : &description "Personal webpage from Ana Viñuela"
-url                      : https://anavinuela.github.io
+url                      : https://avinuela.github.io/anavinuela/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avinuela/anavinuela.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
