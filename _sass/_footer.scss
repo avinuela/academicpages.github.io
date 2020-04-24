@@ -53,6 +53,11 @@
   }
 }
 
+em {  /* or .call em, but you should aim for consistency in your styling */
+    font-style: normal;
+    font-size: 80%;
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
