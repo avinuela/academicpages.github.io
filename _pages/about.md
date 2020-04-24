@@ -15,8 +15,6 @@ I am currently a researcher at the University of Geneva, visiting the Univerisit
 My research interests include the role of genetic variation in the diversity of changes observed in gene expression with age. I am also interested on the genetics causes of age related diseases and other complex traits, like the development of diabetes and its progression with age.
 
 
-#[this Github repository](https://github.com/staeiou/staeiou.github.io).
+Research projects 
+======
 
-#A data-driven personal website
-#======
-#Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The 
