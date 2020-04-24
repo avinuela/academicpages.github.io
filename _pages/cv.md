@@ -34,8 +34,5 @@ Personal awards and honours
   
 Scientific associations membership
 ======
-* Founding member of [Spanish Researchers in United Kingdom] (www.sruk.org.uk).
-=
-=
-=
+* Founding member of [Spanish Researchers in United Kingdom](www.sruk.org.uk).
 
