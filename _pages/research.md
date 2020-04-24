@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
+---
+
+{% include base_path %}
+
+Multi-omics signatures of tissue ageing 
+======
+Cellular composition and abundance of immune related cell types in different tissues are known to change with age, with implications for disease susceptibility. We aim to understand how age-related changes in tissue cell composition in humans affect molecular phenotypes and how that in turn drives disease development. Using multi-omics datasets from human tissues (miRNA, mRNA, proteins and metabolites) and clinical datasets, we focus in the identiications of genetics and molecular determinants altered in ageing and involved in increase diseased risk.
+
+Genetics of age related diseases - Type 2 diabetes
+======
+
+
+Genetics regulation of molecular phenotypes
+======
+
+
